@@ -1,8 +1,9 @@
 name: Format
 
-on:
-  push:
-    branches:
+# disable for now
+# on:
+#   push:
+#     branches:
 
 jobs:
   format:
